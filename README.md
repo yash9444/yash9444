@@ -3,7 +3,7 @@ yash9444/yash9444 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Yash Gabhud</h1>
-<img src="C:\Users\yashg\OneDrive\Desktop\gitHub\yash9444\web-development-yash.mp4" alt="This is Yash Gabhud"/>
+<img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-3754057-3179103.mp4" alt="This is Yash Gabhud"/>
 
 <h3 align="center">A passionate and fast learner full stack web developer from India</h3>
 
