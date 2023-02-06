@@ -3,6 +3,8 @@ yash9444/yash9444 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Yash Gabhud</h1>
+<img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-3754057-3179103.mp4" alt="This is Yash Gabhud"/>
+
 <h3 align="center">A passionate and fast learner full stack web developer from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash9444" alt="yash9444" /></a> </p>
