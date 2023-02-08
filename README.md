@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Yash Gabhud</h1>
 <<<<<<< HEAD
 <img src="https://github.com/yash9444/yash9444/blob/702ad9d6e28413623d78274d3bb7777c66169479/web-development-yash.mp4" alt="This is Yash Gabhud"/>
-=======
+
 <!-- <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-3754057-3179103.mp4" alt="This is Yash Gabhud"/> -->
 >>>>>>> 1334f3e07cbbdbe699a76164b2ee460e3051c818
 
